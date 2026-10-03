@@ -1,0 +1,7 @@
+{
+  "name": "Mt Atkinson & Melton Electoral Intelligence Dashboard",
+  "description": "Comprehensive election results analysis for Mount Atkinson Ward, Matt Pearse campaign performance, community advocacy alignment, voter sentiment metrics, and strategic pathway modeling for Melton State, Hawke Federal, and Council 2028.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
