@@ -30,7 +30,7 @@ cd <your-repo-name>
 
 ### 3. Install Dependencies
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 ### 4. Start Development Server
